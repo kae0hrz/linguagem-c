@@ -1,3 +1,14 @@
+/*
+Faça um programa em Linguagem C que peça o ano de nascimento do usuário e apresente sua provável idade.
+Casos de teste:
+a) Para o ano 2000, a provável idade é 22;
+b) Para o ano 1976, a provável idade é 46.
+
+
+*/
+
+
+
 #include <stdio.h>
 
 int main(){
